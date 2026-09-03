@@ -7,11 +7,11 @@
   "node_role": "feeder",
   "money_target": "theseocompanymelbourne.com.au",
   "primary_kw": "seo audit melbourne comparison",
-  "intended_url": "https://sites-26.gitlab.io/seo-audit-melbourne-comparison-ca36a6f786bd67f11dc4f1d7c528c803/",
-  "writeback_nonce": "ac4578fd1aa9f38d",
+  "intended_url": "http://seo-audit-melbourne-comparison-ca36a6f786bd67f11dc4f1d7c528c803.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "4c5112093765fc18",
   "links": [
     {
-      "target_url": "https://sites-e470-2.web.app/seo-audit-melbourne-b2450101ac2730058fe2d1b0a2f73dbba7cbe383/",
+      "target_url": "https://sitesau.github.io/theseocompanymelbourne-150/",
       "anchor": "seo audit melbourne",
       "rel": "follow"
     }
